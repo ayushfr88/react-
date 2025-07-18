@@ -22,3 +22,4 @@ function App() {
 
 export default App
 // onclick need a function to perform it does not take anything else.
+// remember the name of my remote is react
