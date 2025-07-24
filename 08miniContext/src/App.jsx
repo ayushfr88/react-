@@ -8,11 +8,13 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+     <div>
     <UserContextProvider>
       <h1></h1>
       <Login />
       <Profile />
     </UserContextProvider>
+    </div>
   )
 }
 
